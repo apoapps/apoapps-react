@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.aba9c194.chunk.css",
-    "main.js": "/static/js/main.f669bec6.chunk.js",
-    "main.js.map": "/static/js/main.f669bec6.chunk.js.map",
+    "main.js": "/static/js/main.37e16592.chunk.js",
+    "main.js.map": "/static/js/main.37e16592.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4660adcd.js",
     "runtime-main.js.map": "/static/js/runtime-main.4660adcd.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/Profile0.e6310b19.jpeg": "/static/media/Profile0.e6310b19.jpeg",
     "static/media/TrigoMathLogo.9b30adc6.webp": "/static/media/TrigoMathLogo.9b30adc6.webp",
     "static/media/apoapps-logo-inverted.8bf45490.svg": "/static/media/apoapps-logo-inverted.8bf45490.svg",
+    "static/media/heart.8b91ad83.svg": "/static/media/heart.8b91ad83.svg",
     "static/media/tiny-apoapps-logo.4610b077.svg": "/static/media/tiny-apoapps-logo.4610b077.svg"
   },
   "entrypoints": [
@@ -22,6 +23,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.0a539dc0.chunk.js",
     "static/css/main.aba9c194.chunk.css",
-    "static/js/main.f669bec6.chunk.js"
+    "static/js/main.37e16592.chunk.js"
   ]
 }
