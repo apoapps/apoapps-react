@@ -5,37 +5,45 @@ object-assign
 */
 
 /*!
-   * Sizzle CSS Selector Engine v2.3.6
+   * Sizzle CSS Selector Engine v2.3.5
    * https://sizzlejs.com/
    *
    * Copyright JS Foundation and other contributors
    * Released under the MIT license
    * https://js.foundation/
    *
-   * Date: 2021-02-16
+   * Date: 2020-03-14
    */
 
 /*!
-  * Bootstrap v4.6.0 (https://getbootstrap.com/)
-  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap v4.5.3 (https://getbootstrap.com/)
+  * Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
 /*!
- * jQuery JavaScript Library v3.6.0
+ * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
  *
  * Includes Sizzle.js
  * https://sizzlejs.com/
  *
- * Copyright OpenJS Foundation and other contributors
+ * Copyright JS Foundation and other contributors
  * Released under the MIT license
  * https://jquery.org/license
  *
- * Date: 2021-03-02T17:08Z
+ * Date: 2020-05-04T22:49Z
  */
 
-/** @license React v0.20.2
+/**
+ * A better abstraction over CSS.
+ *
+ * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
+ * @website https://github.com/cssinjs/jss
+ * @license MIT
+ */
+
+/** @license React v0.20.1
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -53,7 +61,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.2
+/** @license React v17.0.1
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -62,7 +70,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.2
+/** @license React v17.0.1
  * react-jsx-runtime.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -71,7 +79,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.2
+/** @license React v17.0.1
  * react.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
