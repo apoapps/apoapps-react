@@ -36,10 +36,10 @@ function AboutMe() {
           <div className="info  ">
             <h4>Acerca de mi:</h4>
             <h5>
-              Estudiante de bachillerato entusiasta y autodidacta en
-              programación y automatización, apasionado por el desarollo de
-              soluciones prácticas especialmente en aquellas que ayudan a las
-              personas a mejorar su calidad de vida.
+              Estudiante de universidad en la carrera de Ingeniería Mecatrónica con una sólida formación y experiencia en programación y automatización.
+              Autodidacta y con una amplia trayectoria en proyectos y concursos de ciencia, destaca por su capacidad para aprender y aplicar nuevas tecnologías de manera eficiente.
+              Ha desarrollado dos aplicaciones exitosas que han ayudado a miles de estudiantes en todo el mundo a mejorar sus habilidades en matemáticas y física.
+
             </h5>
             <a href='https://docs.google.com/document/d/1EpRiiUTYgPA0Vl5XLj0DhceHBYDIbF0OdtQxr4ZwRpw/edit?usp=sharing' class="btn btn-dark" >Descarga mi CV!</a>
           </div>

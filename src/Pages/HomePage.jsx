@@ -29,7 +29,7 @@ function HomePage() {
           <Card
             imgURL={wakeupLogo}
             title="WakeUp"
-            titleImage=""
+            titleImage="WakeUp"
             description="Tu calculadora de sueño, calcula las mejores horas para despertar y dormir!"
             appState="Stable"
             aboutLink="#/wakeup"

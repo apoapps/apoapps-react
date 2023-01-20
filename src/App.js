@@ -61,10 +61,10 @@ export default function app() {
         <Route exact path="/wakeup">
           <AboutProduct
             imgURL={wakeupLogo}
-            title="Title"
+            title="WakeUp"
             titleImage=""
             description="¿Estás harto de despertarte con sensación de cansancio? Con WakeUp, podrás despedirte de la fatiga matutina y darle la bienvenida a un comienzo de día fresco y lleno de energía. Nuestra aplicación calcula las horas óptimas para despertarte y dormir, para que puedas aprovechar al máximo cada día. Olvida las noches de insomnio y despiértate descansado y renovado con WakeUp."
-            appState="Stable"
+            appState="Estable"
             appStore="https://apps.apple.com/us/app/wakeup-the-sleep-calculator/id1593359716"
             playStore="https://play.google.com/store/apps/details?id=com.apodapps.wakeup&hl=es&gl=US"
           />
@@ -72,7 +72,7 @@ export default function app() {
 
         <Route exact path="/tri-go-math">
           <AboutProduct
-            imgURL="https://play-lh.googleusercontent.com/ilouuYQ_h6BCwtW6yDiXk_pFfKNn0CEQjxmngtFxT48_TN-Fe7ZVuos0iVEiFHpAGQ=s180-rw"
+            imgURL="https://play-lh.googleusercontent.com/b0ZNcrjNnIPb8teMs0fwPoFsbBzJy8CiAivSswdKXYDtYMzyRwZOdd87LKkq9_1MrLWH=w480-h960-rw"
             title="Tri-Go Math"
             titleImage=""
             description="Herramienta para estudiantes, la cual ayuda a realizar su tarea de matematicas de una manera sencilla"
