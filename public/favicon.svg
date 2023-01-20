@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="309.672" height="309.672" viewBox="0 0 309.672 309.672">
+  <g id="Group_6" data-name="Group 6" transform="translate(-547.164 -83.164)">
+    <path id="Path_3" data-name="Path 3" d="M154.836,0A154.836,154.836,0,1,1,0,154.836,154.836,154.836,0,0,1,154.836,0Z" transform="translate(547.164 83.164)"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-396 -375)">
+      <g id="Group_1" data-name="Group 1" transform="translate(37.027 40.951)">
+        <text id="_" data-name="{" transform="translate(946.973 593.049)" fill="#fff" stroke="#fff" stroke-width="1" font-size="80" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">{</tspan></text>
+        <text id="_2" data-name="}" transform="translate(1142.973 593.049)" fill="#fff" stroke="#fff" stroke-width="1" font-size="80" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">}</tspan></text>
+        <g id="Group_7" data-name="Group 7" transform="translate(-2 -1)">
+          <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(1002.973 480.049)" fill="none" stroke="#fff" stroke-width="10">
+            <rect width="119" height="184" rx="35" stroke="none"/>
+            <rect x="5" y="5" width="109" height="174" rx="30" fill="none"/>
+          </g>
+          <path id="Path_1" data-name="Path 1" d="M1025.735,573.536l9.591-2.321,29.443-16.189,4.173-2.008,4.938-1.78,6.907-2.434,6.98-1.523h9.562l5.323.756,2.906.9,3.028,1.259,3.15,1.423,2,1.093,1.971,1.459,2.877,2.076,1.77,1.491,1.849,1.548,1.7,1.329,1.379,1.43,1.4,1.457,1.451,1.389,1.07,1.088.781.807.736.41-4.037,101.535a265.473,265.473,0,0,1-47.873,4.513,321.024,321.024,0,0,1-50.565-4.513Z" transform="translate(-15.311 -15.671)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

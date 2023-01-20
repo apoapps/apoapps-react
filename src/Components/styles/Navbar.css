@@ -1,0 +1,20 @@
+.container {
+    
+    background-color: white;
+    border-radius: 30px;
+}
+
+.brand__logo{
+    border-radius: 100%;
+    margin-right: 20px;
+    
+}
+
+
+
+.gh-logo{
+    width: 50px;
+    height: 50px;
+}
+
+

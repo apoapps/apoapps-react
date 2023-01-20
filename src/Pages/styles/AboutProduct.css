@@ -1,0 +1,20 @@
+.software-image{
+    border-radius: 100%;
+
+    /* 
+    margin: 20px;
+    display: block; */
+    
+}
+
+.first-card{
+    display: flex;
+    margin: 10px;
+}
+
+.shadow-card{
+    box-shadow: 1px 1px 2px #7e7e7e;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 1px;
+}
