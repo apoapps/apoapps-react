@@ -36,7 +36,7 @@ function MediumPosts() {
 
     return (
         <div className="container">
-            <h1>Mis Artículos</h1>
+            <h1>My articles</h1>
             <div className="row">
                 {blogs.map(blog => {
                     return <div className="col-sm-12 col-md-6 ">

@@ -18,8 +18,8 @@ function HomePage() {
 
 
       </div>
-      <a href='#/media'>¿Que es apoapps?</a>
-      <h1 className="title" id="proyectos">Proyectos:</h1>
+      <a href='#/media'>What's Apoapps?</a>
+      <h1 className="title" id="proyectos">Portfolio:</h1>
 
 
 
@@ -30,8 +30,8 @@ function HomePage() {
             imgURL={wakeupLogo}
             title="WakeUp"
             titleImage="WakeUp"
-            description="Tu calculadora de sueño, calcula las mejores horas para despertar y dormir!"
-            appState="Stable"
+            description="Sleep cycle calculator and alarm app"
+            appState="Release"
             aboutLink="#/wakeup"
             platform1="iOS"
             platform2="Android"
@@ -40,8 +40,8 @@ function HomePage() {
             imgURL="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/51/65/6f/51656f75-28d5-c66a-0d1a-2324f9c2b85c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png"
             title="Fisik"
             titleImage=""
-            description="Haz tu tarea de Fisica de una manera mucho mas sencilla!!"
-            appState="Stable"
+            description="Physics homework helper app"
+            appState="Release"
             aboutLink="#/fisik"
             platform1="iOS"
             platform2="Android"
@@ -49,7 +49,7 @@ function HomePage() {
           <Card
             imgURL="https://play-lh.googleusercontent.com/b0ZNcrjNnIPb8teMs0fwPoFsbBzJy8CiAivSswdKXYDtYMzyRwZOdd87LKkq9_1MrLWH=w480-h960-rw"
             title="Tri-Go Math"
-            description="App para aprendizaje de matematicas"
+            description="Math learning app for students"
             aboutLink="#/tri-go-math"
             platform1="iOS"
             platform2="android"
@@ -57,7 +57,7 @@ function HomePage() {
           <Card
             imgURL={melloLogo}
             title="Mello Vs School"
-            description="Videojuego que trata de esquivar las clases virtuales."
+            description="Video game where the player avoids virtual classes"
             aboutLink="#/mello-vs-school"
             platform1="iOS"
             platform2="android"
@@ -65,7 +65,7 @@ function HomePage() {
           <Card
             imgURL="https://play-lh.googleusercontent.com/aynFiHgvTqoWPgQ5LB81d8WqrRkVgzbhiFheiEC--IcO6evRpcFt--e7HAK2g9i6OU6j=s180-rw"
             title="Endless Beats"
-            description="Videojuego ritmico"
+            description="Rhythm-based video game"
             aboutLink="#/endless-beats"
             platform1="iOS"
             platform2="android"
@@ -80,14 +80,14 @@ function HomePage() {
           <Card
             imgURL="https://play-lh.googleusercontent.com/pKT453nwT0PMPJWkhteh0j8LIoHA4eT7UJ6hZZW3tjxUGO8gfUrc2Mk4Pr5uVepbmWdI=s180-rw"
             title="Alex VS Virus"
-            description="Videojuego creado para pasar el tiempo :)"
+            description="Casual video game"
             aboutLink="#/alex-vs-virus"
             platform2="android"
           />
           <Card
             imgURL={logo}
-            title="Pagina anterior de ApoApps"
-            description="Pagina Empresarial"
+            title="Previous Page"
+            description="Business website"
             aboutLink="https://alexlink2004.github.io/about_alex_page"
             platform1="WEB"
           />

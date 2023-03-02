@@ -20,11 +20,11 @@ function AboutProduct(props) {
         <div className="col-md-6 col-lg-7  card  shadow-card">
           <div className="card-body">
             <div className="card-body">
-              <h4 className="card-title">Acerca del programa:</h4>
+              <h4 className="card-title">About Product:</h4>
               <p className="card-text">{props.description}</p>
-              <a href={props.appStore} className='btn btn-dark button' >Descargar iOS</a>
+              <a href={props.appStore} className='btn btn-dark button' >Download iOS</a>
               <br/>
-              { props.playStore != null?  <a href={props.playStore}  className='btn btn-dark button' >Descargar android</a> : <div></div>}
+              { props.playStore != null?  <a href={props.playStore}  className='btn btn-dark button' >Download Android</a> : <div></div>}
             </div>
           </div>
         </div>

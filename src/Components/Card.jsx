@@ -11,7 +11,7 @@ function Card(props){
         <div className="card-body">
           <h4 className="card-title">{props.title}</h4>
           <p className="card-text">{props.description}</p>
-          <h6>Plataformas disponibles:</h6>
+          <h6>Platforms Available:</h6>
           <ul>
             {props.platform1 === undefined ?   <h1> </h1> : <li>{props.platform1}</li>}
             {props.platform2 === undefined ?   <h1> </h1> : <li>{props.platform2}</li>}
@@ -19,7 +19,7 @@ function Card(props){
 
           
               <a href={props.aboutLink} className="btn btn-dark button card-link">
-                Saber mas
+                More info
               </a>
 
           

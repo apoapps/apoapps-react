@@ -33,7 +33,7 @@ function NavBar(props) {
         <ul className="navbar-nav ">
           <li className="nav-item  " >
             <a className="nav-link" href="#/me">
-              Acerca del creador
+              About Creator
             </a>
           </li>
           <li className="nav-item ">
@@ -43,7 +43,7 @@ function NavBar(props) {
           </li>
           <li className="nav-item ">
             <a className="nav-link" href="#/articles">
-              Artículos
+              Articles
             </a>
           </li>
 

@@ -15,12 +15,12 @@ function AboutMe() {
             alt="Foto de perfil"
             className="profile-picture mx-auto"
           />
-          <h1 className="about-title">Alejandro Apodaca Cordova</h1>
+          <h1 className="about-title">Alejandro Apodaca Córdova</h1>
         </div>
 
         <div className="col-md">
           <div className="info ">
-            <h1>Contacto</h1>
+            <h1>Contact:</h1>
             <ul class="list-group">
               <li class="list-group-item"><a href="https://vm.tiktok.com/ZMJwQcnad/">Tiktok</a></li>
               <li class="list-group-item"><a href="https://t.me/alexapo26">Telegram</a></li>
@@ -34,14 +34,16 @@ function AboutMe() {
           <br />
 
           <div className="info  ">
-            <h4>Acerca de mi:</h4>
+            <h4>About me:</h4>
             <h5>
-              Estudiante de universidad en la carrera de Ingeniería Mecatrónica con una sólida formación y experiencia en programación y automatización.
+              {/* Estudiante de universidad en la carrera de Ingeniería Mecatrónica con una sólida formación y experiencia en programación y automatización.
               Autodidacta y con una amplia trayectoria en proyectos y concursos de ciencia, destaca por su capacidad para aprender y aplicar nuevas tecnologías de manera eficiente.
-              Ha desarrollado dos aplicaciones exitosas que han ayudado a miles de estudiantes en todo el mundo a mejorar sus habilidades en matemáticas y física.
-
+              Ha desarrollado dos aplicaciones exitosas que han ayudado a miles de estudiantes en todo el mundo a mejorar sus habilidades en matemáticas y física. */}
+              University student in the career of Mechatronics Engineering with a solid background and experience in programming.
+              Self-taught and with an extensive track record in science projects and competitions, he stands out for his ability to learn and apply new technologies efficiently.
+              He has developed three successful applications that have helped thousands of students around the world improve their homework and lifestyle.
             </h5>
-            <a href='https://docs.google.com/document/d/1EpRiiUTYgPA0Vl5XLj0DhceHBYDIbF0OdtQxr4ZwRpw/edit?usp=sharing' class="btn btn-dark" >Descarga mi CV!</a>
+            <a href='https://docs.google.com/document/d/1EpRiiUTYgPA0Vl5XLj0DhceHBYDIbF0OdtQxr4ZwRpw/edit?usp=sharing' class="btn btn-dark" >Download my CV!</a>
           </div>
         </div>
       </div>

@@ -11,7 +11,7 @@ export default function MediaPage(props) {
         {
               !props.hasAbout?
               <div className="col-md-6 info ">
-              <h1>Presencia de ApoApps</h1>
+              <h1>Apoapps presence</h1>
               <ul class="list-group">
               <li class="list-group-item">
                   <a href="https://www.facebook.com/ApoApps/">Facebook</a>
@@ -32,12 +32,9 @@ export default function MediaPage(props) {
           }
           <div className={!props.hasAbout? "col-md-6 info": "col-md-10"}>
               
-            <h1 className="">¿Que es apoapps?</h1>
+            <h1 className="">What is ApoApps?</h1>
             <h4>
-              ApoApps es una empresa independiente creada por 
-              {<Link to="/me"> Alejandro Apodaca Cordova </Link>}, creando soluciones y entretenimiento para la vida diaria de las personas.
-              <p>
-              Actualmente tenemos presencia en las tiendas Google play, Huawei App Gallery y Apple App Store, checa nuestros ultimos lanzamientos
+               <p>ApoApps is an independent project founded and led by {<Link to="/me"> Alejandro Apodaca Cordova </Link>}, dedicated to creating innovative solutions and entertainment that improve people's lives. With a focus on creating apps for both academic and lifestyle needs, Alejandro has developed successful apps like Fisik and Tri-Go Math, which have helped students improve their understanding of physics and math, respectively. Additionally, he has developed WakeUp, an app that leverages advanced sleep cycle calculations to help people wake up refreshed and energized every day. Through his passion for app development, Alejandro is committed to driving positive change and making a meaningful impact on the lives of people around the world.
               </p>
             </h4>
             <p></p>
