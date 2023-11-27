@@ -22,6 +22,13 @@ export default function app() {
         <MaterialNavbar />
       </header>
       <Switch>
+        <Route exact path="/manufacturing_glossary">
+          {() => {
+            window.location.href =
+              "https://alexlink2004.github.io/manufacturing_glossary/";
+            return null;
+          }}
+        </Route>
         <Route exact path="/404" component={Page404}>
           <Page404 />
         </Route>

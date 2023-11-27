@@ -14,15 +14,9 @@ function HomePage() {
     <div className="HomePage">
       <div className='col-sm-12 col-md-6 '>
 
-
-
-
       </div>
       <a href='#/media'>What's Apoapps?</a>
       <h1 className="title" id="proyectos">Portfolio:</h1>
-
-
-
 
       <div>
         <div className=" row ">
