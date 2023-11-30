@@ -22,10 +22,10 @@ export default function app() {
         <MaterialNavbar />
       </header>
       <Switch>
-        <Route exact path="/manufacturing_glossary">
+        <Route exact path="/glosario-procesos">
           {() => {
             window.location.href =
-              "https://alexlink2004.github.io/manufacturing_glossary/";
+              "https://apoapps.github.io/manufacturing_glossary/";
             return null;
           }}
         </Route>
